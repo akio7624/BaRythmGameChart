@@ -1,0 +1,4573 @@
+{
+    "data": {
+        "level": "normal",
+        "bpm": 160,
+        "gridsPerBeat": 2,
+        "beatHighlights": [
+            {
+                "startBeat": 0,
+                "endBeat": 324,
+                "beatHighlight": 4
+            }
+        ],
+        "noteOffset": 890,
+        "notes": [
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 0,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 0,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 1,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 1,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 2,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 3,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 3,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 4,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 5,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 5,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 6,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 6,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 7,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 7,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 8,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 8,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 9,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 9,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 10,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 11,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 11,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 12,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 13,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 13,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 14,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 14,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 15,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 15,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 16,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 16,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 17,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 17,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 18,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 19,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 19,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 20,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 21,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 21,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 22,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 23,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 23,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 24,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 24,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 25,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 25,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 26,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 27,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 27,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 27,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 28,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 28,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 29,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 29,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 0,
+                "beat": 30,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 31,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 30,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 31,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 32,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 32,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 33,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 33,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 34,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 34,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 35,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 35,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 36,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 36,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 37,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 37,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 38,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 38,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 39,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 39,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 40,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 40,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 41,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 41,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 42,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 42,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 43,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 43,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 44,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 44,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 45,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 45,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 46,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 46,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 47,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 47,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 48,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 48,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 49,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 49,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 50,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 50,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 51,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 51,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 52,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 53,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 53,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 54,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 54,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 55,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 55,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 56,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 56,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 57,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 57,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 58,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 58,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 59,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 59,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 59,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 60,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 60,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 61,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 61,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 0,
+                "beat": 62,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "endBeat": 63,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 62,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "endBeat": 63,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 64,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 64,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 64,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 65,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 65,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 66,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 66,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 67,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 68,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 69,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 69,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 70,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 70,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 71,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 71,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 72,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 72,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 72,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 73,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 73,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 74,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 74,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 75,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 76,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 77,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 77,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 78,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 78,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 79,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 80,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 80,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 80,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 81,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 81,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 82,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 82,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 83,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 84,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 85,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 85,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 86,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 86,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 87,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 87,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 88,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 88,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 88,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 89,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 89,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 90,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 91,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 91,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 92,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 92,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 93,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 93,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 0,
+                "beat": 94,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 95,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 94,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 95,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 96,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 96,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 97,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 97,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 98,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 99,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 99,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 100,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 101,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 101,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 102,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 103,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 103,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 104,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 104,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 105,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 105,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 106,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 107,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 108,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 109,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 109,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 110,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 111,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 112,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 112,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 113,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 113,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 114,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 115,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 115,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 116,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 117,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 117,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 118,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 119,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 119,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 120,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 120,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 120,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 121,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 121,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 122,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 123,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 123,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 123,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 124,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 124,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 125,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 125,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 126,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "endBeat": 127,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 126,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "endBeat": 127,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 128,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "endBeat": 129,
+                "endGrid": 0,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 129,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 129,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 130,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 130,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 131,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 131,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 132,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 133,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 133,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 133,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 134,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 134,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 135,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 135,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 0,
+                "beat": 136,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 137,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 137,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 137,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 138,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 138,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 139,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 139,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 140,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 141,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 141,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 141,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 142,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 142,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 143,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 143,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 144,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 145,
+                "endGrid": 0,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 145,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 145,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 146,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 146,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 147,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 147,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 148,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 149,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 149,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 149,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 150,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 150,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 151,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 151,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 152,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 153,
+                "endGrid": 0,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 153,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 153,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 154,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 154,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 155,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 155,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 156,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 156,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 157,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 157,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 158,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 158,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 159,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 160,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 160,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 161,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 161,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 162,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 163,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 164,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 165,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 165,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 166,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 166,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 167,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 167,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 168,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 168,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 169,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 169,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 170,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 171,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 172,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 173,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 173,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 174,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 174,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 175,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 176,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 176,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 177,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 177,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 178,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 179,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 180,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 181,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 181,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 182,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 182,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 183,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 183,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 184,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 184,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 185,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 185,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 186,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 187,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 188,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 190,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 190,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 191,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 191,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 192,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 193,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 194,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 194,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 195,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 195,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 196,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 197,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 198,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 198,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 199,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 200,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 201,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 202,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 202,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 203,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 203,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 204,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 204,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 204,
+                "grid": 3,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 204,
+                "grid": 3,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 205,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 206,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 206,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 207,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 208,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 208,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 209,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 210,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 210,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 211,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 211,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 212,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 213,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 214,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 214,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 215,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 216,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 217,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 218,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 218,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 219,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 219,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 220,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 221,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 221,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 222,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 222,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 223,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 224,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 224,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 225,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 225,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 226,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 226,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 227,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 227,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 228,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 228,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 229,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 229,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 230,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 230,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 231,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 231,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 232,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 232,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 233,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 233,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 234,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 234,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 235,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 235,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 236,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 236,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 237,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 237,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 238,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 238,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 239,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 239,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 240,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 240,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 241,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 241,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 242,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 242,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 243,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 243,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 244,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 245,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 245,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 246,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 246,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 247,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 247,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 248,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 248,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 249,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 249,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 250,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 250,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 251,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 251,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 251,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 252,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 252,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 253,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 253,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 254,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 254,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 255,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 255,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 256,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 256,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 256,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 257,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 257,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 258,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 258,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 259,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 259,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 260,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 260,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 260,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 261,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 261,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 262,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 262,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 263,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 263,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 264,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 264,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 264,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 265,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 265,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 266,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 266,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 267,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 267,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 268,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 268,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 268,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 269,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 269,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 269,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 269,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 270,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 270,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 271,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 271,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 272,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 272,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 272,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 273,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 273,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 274,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 274,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 275,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 275,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 276,
+                "endGrid": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 276,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 276,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 277,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 3,
+                "beat": 277,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 278,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 278,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 279,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 279,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 280,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 280,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 280,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 281,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 281,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "endBeat": 282,
+                "endGrid": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 282,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 283,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 283,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 283,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 284,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 284,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 285,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 285,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "long",
+                "lane": 1,
+                "beat": 286,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 287,
+                "endGrid": 0,
+                "fever": true
+            },
+            {
+                "type": "long",
+                "lane": 2,
+                "beat": 286,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "endBeat": 287,
+                "endGrid": 0,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 288,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 288,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 289,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 289,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 290,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 290,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 291,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 291,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 292,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 292,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 293,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 293,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 294,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 294,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 295,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 295,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 296,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 296,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 297,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 297,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 298,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 298,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 299,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 299,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 300,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 300,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 301,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 301,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 302,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 302,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 303,
+                "grid": 0,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 303,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 304,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 304,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 305,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 305,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 306,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 306,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 307,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 307,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 308,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 308,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 309,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 309,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 310,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 310,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 311,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 311,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 312,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 312,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 313,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 313,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 314,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 314,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 315,
+                "grid": 0,
+                "gridsPerBeat": 1,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 315,
+                "grid": 1,
+                "gridsPerBeat": 2,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 316,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": true
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 316,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 317,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 317,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 318,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 318,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 319,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 1,
+                "beat": 319,
+                "grid": 1,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 2,
+                "beat": 319,
+                "grid": 2,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 3,
+                "beat": 319,
+                "grid": 3,
+                "gridsPerBeat": 4,
+                "fever": false
+            },
+            {
+                "type": "basic",
+                "lane": 0,
+                "beat": 320,
+                "grid": 0,
+                "gridsPerBeat": 4,
+                "fever": true
+            }
+        ]
+    }
+}
